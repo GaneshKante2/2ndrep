@@ -121,10 +121,6 @@ public class Simple{
             }
         }
         }
-
-       
-        
-
        
     }  
 }  
